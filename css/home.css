@@ -1,0 +1,9 @@
+#corpo form{
+	text-align: center;
+	margin:15px;
+}
+#corpo{
+	border:1px solid black;
+	margin:0px auto;
+	width: 50%;
+}
